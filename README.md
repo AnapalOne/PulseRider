@@ -1,3 +1,5 @@
+<h1>MAIN DEVELOPMENT MOVED TO <a href="https://github.com/AnapalOne/VISO">VISO</a> AND <a href="https://github.com/AnapalOne/VISOApp">VISOApp</a>. THIS REPOSITORY IS ABANDONED.</h1>
+
 <div align=center> <h1> Project Ride-Alert </h1> 
 <i>A project by:</i> <br> <br>
 Precious Capuyan <br>
